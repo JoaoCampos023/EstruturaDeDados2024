@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\bin\Debug\net8.0\Aula 02.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\bin\Debug\net8.0\Aula 02.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\bin\Debug\net8.0\Aula 02.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\bin\Debug\net8.0\Aula 02.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\bin\Debug\net8.0\Aula 02.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\refint\Aula 02.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\Aula 02.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 02\obj\Debug\net8.0\ref\Aula 02.dll

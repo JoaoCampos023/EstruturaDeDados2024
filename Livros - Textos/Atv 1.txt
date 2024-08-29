@@ -1,0 +1,6 @@
+Atividade
+
+--------------
+
+Escreva um algoritmo que armazene em dois vetores separados os primeiros 100 numeros pares e impares.
+No final imprima a sequencia armazenada em cada um deles.

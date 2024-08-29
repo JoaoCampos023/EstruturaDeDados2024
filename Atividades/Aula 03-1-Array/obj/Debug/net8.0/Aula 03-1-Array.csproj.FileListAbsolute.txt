@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\bin\Debug\net8.0\Aula 03-1-Array.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\bin\Debug\net8.0\Aula 03-1-Array.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\bin\Debug\net8.0\Aula 03-1-Array.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\bin\Debug\net8.0\Aula 03-1-Array.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\bin\Debug\net8.0\Aula 03-1-Array.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\refint\Aula 03-1-Array.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\Aula 03-1-Array.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 03-1-Array\obj\Debug\net8.0\ref\Aula 03-1-Array.dll
