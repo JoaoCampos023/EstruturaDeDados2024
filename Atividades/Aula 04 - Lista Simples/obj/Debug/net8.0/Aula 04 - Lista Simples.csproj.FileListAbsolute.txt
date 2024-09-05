@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\bin\Debug\net8.0\Aula 04 - Lista Simples.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\bin\Debug\net8.0\Aula 04 - Lista Simples.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\bin\Debug\net8.0\Aula 04 - Lista Simples.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\bin\Debug\net8.0\Aula 04 - Lista Simples.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\bin\Debug\net8.0\Aula 04 - Lista Simples.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\refint\Aula 04 - Lista Simples.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\Aula 04 - Lista Simples.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 04 - Lista Simples\obj\Debug\net8.0\ref\Aula 04 - Lista Simples.dll
