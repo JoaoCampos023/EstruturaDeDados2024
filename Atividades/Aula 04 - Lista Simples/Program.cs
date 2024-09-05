@@ -64,3 +64,9 @@ else
 {
     Console.WriteLine("É, realmente não tem.");
 }
+
+// É possivel tambem remover itens da lista;
+
+arrList.Remove("Joao"); // Remove pelo valor;
+arrList.RemoveAt(4); // Remove no indice;
+arrList.RemoveRange(0,5); // O primeiro parametro é o indice, e o segundo é quantas casa apos o indice;
