@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.exe
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.deps.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\bin\Debug\net8.0\GameMap.pdb
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\refint\GameMap.dll
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.pdb
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\GameMap.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Estrutura de Dados\EstruturaDeDados2024\Atividades\GameMap\obj\Debug\net8.0\ref\GameMap.dll
