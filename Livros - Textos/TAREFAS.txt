@@ -1,0 +1,3 @@
+TAREFAS:
+
+-> Implemente o exemplo do GameMap na pagina 40 a 42 do livro.
