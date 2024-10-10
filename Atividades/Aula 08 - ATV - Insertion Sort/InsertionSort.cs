@@ -3,36 +3,35 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula_08___BubbleSort
+namespace Aula_08___ATV___Insertion_Sort
 {
-public static class BubbleSort
+public static class InsertionSort
     {
-        //T é tipo generico
-        public static T[] Sort<T>(T[] array) where T:IComparable
+        public static void Sort<T>(T[] array) where T : IComparable
         {
-            for(int i = 0; i < array.Length - 1; i++)
+            for(int i = 1; i < array.Length; i++)
             {
-                //Otimizando o Bubble Sort
-                bool isAnyChange = false;
+                int j = i;
 
-                for(int j = 0; j < array.Length - 1; j++)
+                while(j > 0 && array[j].CompareTo(array[j -1]) < 0)
                 {
-                    if(array[j].CompareTo(array[j+1]) > 0)
-                    {
-                        isAnyChange = true;
-                        Swap(array, j, j+1);
-                    }
+                    Swap(array, j, j - 1);
+                    j--;
                 }
-                if(!isAnyChange)
-                    break;
             }
-            return array;
         }
 
         public static void Swap<T>(T[] array, int first, int second){
+            InsertionSort.Print(array, 100);
             T temp = array[first];
+
             array[first] = array[second];
+            InsertionSort.Print(array, 100);
+
             array[second] = temp;
+            InsertionSort.Print(array, 100);
+            
+            
         }
 
         public static void Print<T>(T[] array, int delay){
