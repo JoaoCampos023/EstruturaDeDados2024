@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\bin\Debug\net8.0\Aula 08 - BubbleSort.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\bin\Debug\net8.0\Aula 08 - BubbleSort.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\bin\Debug\net8.0\Aula 08 - BubbleSort.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\bin\Debug\net8.0\Aula 08 - BubbleSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\bin\Debug\net8.0\Aula 08 - BubbleSort.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\refint\Aula 08 - BubbleSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\Aula 08 - BubbleSort.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 08 - BubbleSort\obj\Debug\net8.0\ref\Aula 08 - BubbleSort.dll
