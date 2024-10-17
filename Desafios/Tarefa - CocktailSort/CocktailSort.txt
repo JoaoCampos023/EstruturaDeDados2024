@@ -1,0 +1,20 @@
+Cocktail Sort
+
+História
+O Cocktail Sort, também conhecido como Bidirectional Bubble Sort ou Shaker Sort, foi desenvolvido na década de 1980. Embora não haja um único criador identificado, ele é uma variação do Bubble Sort, projetado para melhorar a eficiência do algoritmo em certos cenários.
+
+Pontos Positivos
+
+Simplicidade: É fácil de entender e implementar.
+Estabilidade: Mantém a ordem de elementos iguais.
+Melhoria em listas quase ordenadas: Pode ser mais eficiente que o Bubble Sort em listas que já estão parcialmente ordenadas, já que faz passagens em ambas as direções.
+
+Pontos Negativos
+
+Complexidade O(n²): No pior caso, tem a mesma complexidade de tempo que o Bubble Sort, o que não é eficiente para listas grandes.
+Desempenho: Em listas muito grandes ou completamente desordenadas, seu desempenho é inferior a algoritmos mais avançados, como Quick Sort ou Merge Sort.
+Uso de Comparações: Pode realizar um número excessivo de comparações em casos específicos.
+
+Casos de Uso
+Listas pequenas ou quase ordenadas: Pode ser usado em contextos onde a simplicidade do código é mais importante que a eficiência.
+Ambientes educacionais: Frequentemente utilizado para ensinar conceitos básicos de ordenação.
