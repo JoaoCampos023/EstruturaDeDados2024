@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\bin\Debug\net8.0\Aula 09 - QuickSort.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\bin\Debug\net8.0\Aula 09 - QuickSort.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\bin\Debug\net8.0\Aula 09 - QuickSort.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\bin\Debug\net8.0\Aula 09 - QuickSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\bin\Debug\net8.0\Aula 09 - QuickSort.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\refint\Aula 09 - QuickSort.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\Aula 09 - QuickSort.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 09 - QuickSort\obj\Debug\net8.0\ref\Aula 09 - QuickSort.dll

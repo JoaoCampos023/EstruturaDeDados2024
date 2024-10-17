@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\bin\Debug\net8.0\Code.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\bin\Debug\net8.0\Code.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\bin\Debug\net8.0\Code.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\bin\Debug\net8.0\Code.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\refint\Code.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - CocktailSort\Code\obj\Debug\net8.0\ref\Code.dll
