@@ -1,0 +1,15 @@
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\bin\Debug\net8.0\Aula 10 - Arvores Basic.exe
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\bin\Debug\net8.0\Aula 10 - Arvores Basic.deps.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\bin\Debug\net8.0\Aula 10 - Arvores Basic.runtimeconfig.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\bin\Debug\net8.0\Aula 10 - Arvores Basic.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\bin\Debug\net8.0\Aula 10 - Arvores Basic.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.AssemblyInfoInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.AssemblyInfo.cs
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.csproj.CoreCompileInputs.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.sourcelink.json
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\refint\Aula 10 - Arvores Basic.dll
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.pdb
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\Aula 10 - Arvores Basic.genruntimeconfig.cache
+C:\Users\424072\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Atividades\Aula 10 - Arvores Basic\obj\Debug\net8.0\ref\Aula 10 - Arvores Basic.dll
