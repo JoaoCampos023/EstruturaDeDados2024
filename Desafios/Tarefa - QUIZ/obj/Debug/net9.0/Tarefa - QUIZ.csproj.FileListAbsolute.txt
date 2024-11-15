@@ -1,0 +1,15 @@
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\bin\Debug\net9.0\Tarefa - QUIZ.exe
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\bin\Debug\net9.0\Tarefa - QUIZ.deps.json
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\bin\Debug\net9.0\Tarefa - QUIZ.runtimeconfig.json
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\bin\Debug\net9.0\Tarefa - QUIZ.dll
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\bin\Debug\net9.0\Tarefa - QUIZ.pdb
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.AssemblyInfoInputs.cache
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.AssemblyInfo.cs
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.sourcelink.json
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.dll
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\refint\Tarefa - QUIZ.dll
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.pdb
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\Tarefa - QUIZ.genruntimeconfig.cache
+C:\Users\João Vitor Campos\Documents\Estrutura de Dados 2024\EstruturaDeDados2024\Desafios\Tarefa - QUIZ\obj\Debug\net9.0\ref\Tarefa - QUIZ.dll
